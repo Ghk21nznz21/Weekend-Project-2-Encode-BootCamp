@@ -28,3 +28,8 @@ Rui voted proposal [1]
 ```shell
 Link : https://sepolia.etherscan.io/tx/0x81aa3537585beb1427ffaef3590e044204e1be75be49ce2c73658097e20f0df2
 ```
+Gonçalo voted proposal [1]
+
+```shell
+Link : https://sepolia.etherscan.io/tx/0xc89cc3fcc23b792ede24d285f4843d91080947e36b3e476258accc8336ce0b06
+```
